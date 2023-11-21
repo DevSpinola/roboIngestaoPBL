@@ -1,7 +1,7 @@
 from time import sleep
 import requests
 
-url = 'https://localhost:7116/Projetil'
+url = 'url/Projetil'
 
 
 
